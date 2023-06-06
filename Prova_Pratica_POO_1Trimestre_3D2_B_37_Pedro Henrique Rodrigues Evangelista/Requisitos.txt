@@ -1,0 +1,8 @@
+
+Venda de Ingressos 
+Informacao da sesão
+Nome do filme 
+Valor Ingresso
+Numero de Ingressos
+Visualizar Valor total 
+
